@@ -1,0 +1,36 @@
+Inline functions are useful when
+1) Function is large with many nested loops 
+2) Function has many static variables 
+3) Function is small and we want to avoid function call overhead 
+4) None of the above
+3
+Which of the following is true about inline functions and macros. 
+1) Macros are processed by pre-processor and inline functions are processed in later stages of compilation. 
+2) Macros cannot have return statement, inline functions can. 
+3) Macros are prone to bugs and errors, inline functions are not 
+4) All of the above
+4	
+Which of the following type of class allows only one object of it to be created?
+1) Virtual class
+2) Abstract class
+3) Singleton class
+4) Friend class
+3
+Which of the following is not a type of constructor?
+1) Copy constructor
+2) Friend constructor
+3) Default constructor
+4) Parameterized constructor
+2
+Which of the following statements is correct?
+1) Base class pointer cannot point to derived class.
+2) Derived class pointer cannot point to base class.
+3) Pointer to derived class cannot be created.
+4) Pointer to base class cannot be created.
+2
+Which of the following statement is correct?
+1) Overloaded functions can have at most one default argument.
+2) An overloaded function cannot have default argument.
+3) All arguments of an overloaded function can be default.
+4) A function if overloaded more than once cannot have default argument.
+3
